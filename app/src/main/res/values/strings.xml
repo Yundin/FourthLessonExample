@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FourthLessonExample</string>
+    <string name="update">Обновить</string>
+    <string name="add">Добавить</string>
+    <string name="empty">Нет информации</string>
+    <string name="template">Меня зовут: %s\nИ я: %s\nОбо мне: %s</string>
+    <string name="name">Имя</string>
+    <string name="description">Кто я</string>
+    <string name="about">Обо мне</string>
+</resources>
